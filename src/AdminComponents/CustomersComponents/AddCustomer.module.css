@@ -1,0 +1,33 @@
+.myButton {
+  background-color: none;
+  color: black;
+  font-size: 2em;
+  align-self: center;
+  width: 2em;
+  border-color: aliceblue;
+}
+
+.myButton:hover {
+  background-color: burlywood;
+}
+
+.actions {
+  text-align: center;
+}
+
+.lab {
+  font-weight: bold;
+  color: #464646;
+}
+
+.form {
+  align-items: center;
+}
+
+.form div {
+  margin-top: 1em;
+}
+
+.form label {
+  margin-right: 1em;
+}
