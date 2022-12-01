@@ -107,7 +107,7 @@ const Footer = () => {
           >
             <FooterContainer>
               <SocialLink
-                href="https://github.com/Adrinlol/create-react-app-adrinlol"
+                href="https://github.com/ahmadWattadSh/CouponSystem"
                 src="github.svg"
               />
               <SocialLink
@@ -116,7 +116,7 @@ const Footer = () => {
                 label="Ahmad Wattad"
               />
               <SocialLink
-                href="https://www.linkedin.com/in/ahmad-wattad-7a3a6a252/"
+                href="https://www.linkedin.com/in/oday-wattad-688b89254/"
                 src="linkedin.svg"
                 label="Oday Wattad"
               />
